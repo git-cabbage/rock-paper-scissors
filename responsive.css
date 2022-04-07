@@ -1,3 +1,19 @@
+@media only screen and (max-width: 992px) {
+  .box__game {
+    width: 70vw;
+    padding-top: 125px;
+  }
+  .box__top {
+    width: 175px;
+    height: 175px;
+  }
+  .user__select {
+    font-size: 18px;
+  }
+  .box__bottom {
+    justify-content: space-evenly;
+  }
+}
 @media only screen and (max-width: 600px) {
   .box__game {
     width: 100vw;
