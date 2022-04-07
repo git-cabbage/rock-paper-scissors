@@ -1,4 +1,8 @@
 (() => {
+  /* 
+        Call me Carbage - Bap Cai. I'm developer in Viet Nam. This is my mini project when i study between basic and advanced javascript. Tks for watching ( ^ ... ^)
+                                                                    Bap Cai - GitHub
+    */
   const btn = document.querySelectorAll(".btn");
   const label = document.querySelectorAll("label");
   const randomE = document.querySelector(".random");
